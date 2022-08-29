@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Kingfisher (7.3.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - NVActivityIndicatorView
+  - ReachabilitySwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - NVActivityIndicatorView
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Kingfisher: 0086ad83719761ba9b2cdaf6ef4d5b4878cbae23
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: de4c8808d93c2ba79bfc3e82c601e40cc07e876b
+
+COCOAPODS: 1.11.2
